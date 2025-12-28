@@ -1,0 +1,7 @@
+{
+  "name": "TagTracer",
+  "description": "An AI-powered price comparison engine called TagTracer that aggregates deals across stores, uses Gemini for smart purchasing advice, and features integrated image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
